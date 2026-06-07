@@ -1,7 +1,6 @@
 # Advanced Indices Analysis System
 
- 
-=======
+  
 ## Dashboard Preview
 
 ![Dashboard](images/dashboard.jpg)
