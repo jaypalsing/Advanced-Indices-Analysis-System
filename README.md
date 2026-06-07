@@ -1,12 +1,11 @@
 # Advanced Indices Analysis System
 
-<<<<<<< HEAD
+ 
 =======
 ## Dashboard Preview
 
 ![Dashboard](images/dashboard.jpg)
-
->>>>>>> dae385c35c278de0ebade824606b3f7f640338c4
+ 
 ## Overview
 
 Advanced Indices Analysis System is a Python-based Remote Sensing and GIS analytics platform designed for advanced raster processing, vegetation analysis, spatial visualization, and GeoTIFF analytics.
@@ -90,6 +89,23 @@ Project_Watershed_Management/
 ---
 
 # Installation
+
+
+| Step | Purpose               | Command                                                                                    |
+| ---- | --------------------- | ------------------------------------------------------------------------------------------ |
+| 1    | Open project folder   | `cd C:\Users\jaypa\OneDrive\Desktop\Advanced-Indices-Analysis-System`                      |
+| 2    | Check Git version     | `git --version`                                                                            |
+| 3    | Initialize Git        | `git init`                                                                                 |
+| 4    | Add all files         | `git add .`                                                                                |
+| 5    | Commit files          | `git commit -m "Initial commit: Advanced Indices Analysis System"`                         |
+| 6    | Rename branch to main | `git branch -M main`                                                                       |
+| 7    | Add GitHub remote     | `git remote add origin https://github.com/jaypalsing/Advanced-Indices-Analysis-System.git` |
+| 8    | Check remote          | `git remote -v`                                                                            |
+| 9    | Push to GitHub        | `git push -u origin main --force`                                                          |
+| 10   | Check status          | `git status`                                                                               |
+| 11   | Add future changes    | `git add .`                                                                                |
+| 12   | Commit future changes | `git commit -m "Updated project"`                                                          |
+| 13   | Push future changes   | `git push`                                                                                 |
 
 ## Clone Repository
 
