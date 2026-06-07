@@ -1,5 +1,9 @@
 # Advanced Indices Analysis System
 
+## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
+
 ## Overview
 
 Advanced Indices Analysis System is a Python-based Remote Sensing and GIS analytics platform designed for advanced raster processing, vegetation analysis, spatial visualization, and GeoTIFF analytics.
